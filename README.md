@@ -1,4 +1,4 @@
-# Become a Maintainer 🚀
+# How to Become a Maintainer 🚀
 
 [![Awesome Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-blue.svg)](#)
 
