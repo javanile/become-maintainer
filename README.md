@@ -30,7 +30,7 @@ Here are some general guidelines to help you:
 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Building Open Source Communities](https://opensource.guide/building-community/)
-- [GitHub Maintainer Best Practices](https://github.com/github/maintainer-best-practices)
+- [GitHub Maintainer Best Practices](https://opensource.guide/best-practices/)
 
 ---
 
